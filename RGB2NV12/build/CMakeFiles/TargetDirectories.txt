@@ -1,0 +1,3 @@
+C:/Users/22132/Desktop/RGB2NV12/build/CMakeFiles/nv12_converter.dir
+C:/Users/22132/Desktop/RGB2NV12/build/CMakeFiles/edit_cache.dir
+C:/Users/22132/Desktop/RGB2NV12/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/22132/Desktop/QRCode/build",
+  "command": "C:\\Qingyab_Tools\\x86_64-14.2.0-release-posix-seh-msvcrt-rt_v12-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/QRCodeReader.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\QRCodeReader.dir\\src\\main.cpp.obj -c C:\\Users\\22132\\Desktop\\QRCode\\src\\main.cpp",
+  "file": "C:/Users/22132/Desktop/QRCode/src/main.cpp",
+  "output": "CMakeFiles/QRCodeReader.dir/src/main.cpp.obj"
+}
+]

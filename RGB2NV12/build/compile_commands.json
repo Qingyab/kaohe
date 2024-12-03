@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/22132/Desktop/RGB2NV12/build",
+  "command": "C:\\Qingyab_Tools\\x86_64-14.2.0-release-posix-seh-msvcrt-rt_v12-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/nv12_converter.dir/includes_CXX.rsp -g -o CMakeFiles\\nv12_converter.dir\\src\\main.cpp.obj -c C:\\Users\\22132\\Desktop\\RGB2NV12\\src\\main.cpp",
+  "file": "C:/Users/22132/Desktop/RGB2NV12/src/main.cpp",
+  "output": "CMakeFiles/nv12_converter.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/22132/Desktop/RGB2NV12/build",
+  "command": "C:\\Qingyab_Tools\\x86_64-14.2.0-release-posix-seh-msvcrt-rt_v12-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/nv12_converter.dir/includes_CXX.rsp -g -o CMakeFiles\\nv12_converter.dir\\src\\rgb2nv12.cpp.obj -c C:\\Users\\22132\\Desktop\\RGB2NV12\\src\\rgb2nv12.cpp",
+  "file": "C:/Users/22132/Desktop/RGB2NV12/src/rgb2nv12.cpp",
+  "output": "CMakeFiles/nv12_converter.dir/src/rgb2nv12.cpp.obj"
+},
+{
+  "directory": "C:/Users/22132/Desktop/RGB2NV12/build",
+  "command": "C:\\Qingyab_Tools\\x86_64-14.2.0-release-posix-seh-msvcrt-rt_v12-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/nv12_converter.dir/includes_CXX.rsp -g -o CMakeFiles\\nv12_converter.dir\\src\\nv122rgb.cpp.obj -c C:\\Users\\22132\\Desktop\\RGB2NV12\\src\\nv122rgb.cpp",
+  "file": "C:/Users/22132/Desktop/RGB2NV12/src/nv122rgb.cpp",
+  "output": "CMakeFiles/nv12_converter.dir/src/nv122rgb.cpp.obj"
+}
+]

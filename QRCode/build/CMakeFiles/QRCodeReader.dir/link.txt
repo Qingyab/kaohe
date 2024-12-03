@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\QRCodeReader.dir/objects.a
+C:\Qingyab_Tools\x86_64-14.2.0-release-posix-seh-msvcrt-rt_v12-rev0\mingw64\bin\ar.exe qc CMakeFiles\QRCodeReader.dir/objects.a @CMakeFiles\QRCodeReader.dir\objects1.rsp
+C:\Qingyab_Tools\x86_64-14.2.0-release-posix-seh-msvcrt-rt_v12-rev0\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\QRCodeReader.dir/objects.a -Wl,--no-whole-archive -o C:\Users\22132\Desktop\QRCode\bin\QRCodeReader.exe -Wl,--out-implib,C:\Users\22132\Desktop\QRCode\bin\libQRCodeReader.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QRCodeReader.dir\linkLibs.rsp
